@@ -1,4 +1,4 @@
-# nwitterPjt
+# nwitterPjt 1일차 0109
 
 # [할 일!]올릴 Readme와 내용 합치기
 
@@ -21,7 +21,7 @@ git init.
 
 git remote add origin {git주소}
 ```
-## Routing, navigation을 위한 react router dom,  스타일을  위한 Style components와 같은 Dependency 설치
+## Routing, navigation을 위한 react router dom, 스타일을  위한 Style components와 같은 Dependency 설치
 ```bash
 npm i react-router-dom@6.14.2
 
@@ -80,4 +80,4 @@ const GlobalStyles = createGlobalStyle`
 ```
 => 이 부분 제대로 나오게 고치는 방법! : extension `vscode-styled-components` 사용
 
-# Firebase 사용하기
+
