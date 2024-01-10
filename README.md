@@ -1,4 +1,4 @@
-# nwitterPjt 1일차 0109
+# nwitterPjt 1일차 0109 #1~2 clear
 
 # [할 일!]올릴 Readme와 내용 합치기
 

@@ -1,4 +1,4 @@
-# nwitterPjt 2일차 0109 # 3.0 Setup~
+# nwitterPjt 2일차 0109 #3 Setup~Protected Routes
 
 # Firebase - Authentication
 - Firebase에서 Authentication -> emil 로그인 활성화
