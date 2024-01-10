@@ -80,4 +80,3 @@ const GlobalStyles = createGlobalStyle`
 ```
 => 이 부분 제대로 나오게 고치는 방법! : extension `vscode-styled-components` 사용
 
-
