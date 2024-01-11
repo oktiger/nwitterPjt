@@ -16,6 +16,7 @@ const Button = styled.span`
     gap:5px;
     align-items:center;
     justify-content: center;
+    cussor:pointer;
 `
 const Logo = styled.img`
     height: 25px;

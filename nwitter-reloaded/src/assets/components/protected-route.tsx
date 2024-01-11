@@ -1,7 +1,7 @@
-import { Children } from "react";
+
 import { auth } from "../../firebase"
 import { Navigate } from "react-router-dom";
-import Home from "../../routes/home";
+
 
 
 export default function ProtectRoute({
@@ -13,5 +13,5 @@ export default function ProtectRoute({
     if(user === null){
         return <Navigate to="/login"/>
     }
-    return <Home/>
+    return children
 }
