@@ -336,4 +336,4 @@ export default function Layout() {
 ```
 
 - error!
-  : Home 화면이 안나왐,. 해결필요!
+  : Home 화면이 안나옴,., 해결필요!
