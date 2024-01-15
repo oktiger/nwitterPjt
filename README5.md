@@ -7,7 +7,6 @@
   => 테스트모드 선택 => 실행
 
 - fierbase.ts로 이동
-
 ```js
 // getStorage 명령어 사용
 ```
@@ -17,7 +16,6 @@
 
 - post-tweet-form.tsx
   : onSubmit 변수 생성(트윗 제출 컨트롤 용)
-
 ```js
 
 ```
